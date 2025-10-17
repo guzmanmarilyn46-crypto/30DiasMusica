@@ -1,3 +1,34 @@
 <resources>
-    <string name="app_name">30diasMusica</string>
+    <string name="app_name">30 Días de Música</string>
+
+    <string name="musica1">Pop – Melodías pegadizas y ritmos bailables</string>
+    <string name="musica2">Rock clásico – Guitarras eléctricas y energía</string>
+    <string name="musica3">Reggaetón – Ritmo latino y urbano</string>
+    <string name="musica4">Jazz – Improvisación y armonías suaves</string>
+    <string name="musica5">Blues – Melancolía y emoción</string>
+    <string name="musica6">Hip-Hop – Poesía urbana y beats</string>
+    <string name="musica7">R&amp;B – Sonido suave y melódico</string>
+    <string name="musica8">Electrónica – Sonidos digitales y ritmo</string>
+    <string name="musica9">Salsa – Energía caribeña y baile</string>
+    <string name="musica10">Cumbia – Alegría colombiana</string>
+    <string name="musica11">K-Pop – Pop coreano con estilo</string>
+    <string name="musica12">Reggae – Paz y libertad (Bob Marley)</string>
+    <string name="musica13">Country – Historias y guitarras</string>
+    <string name="musica14">Metal – Potencia y actitud</string>
+    <string name="musica15">Indie – Creatividad y sonido alternativo</string>
+    <string name="musica16">Flamenco – Pasión española</string>
+    <string name="musica17">Bachata – Ritmo romántico</string>
+    <string name="musica18">Bolero – Amor y nostalgia</string>
+    <string name="musica19">House – Beat repetitivo y energía</string>
+    <string name="musica20">Trap – Sonido urbano moderno</string>
+    <string name="musica21">Afrobeat – Ritmos africanos y funk</string>
+    <string name="musica22">Soul – Voz emocional y poderosa</string>
+    <string name="musica23">Funk – Groove contagioso</string>
+    <string name="musica24">Disco – Luces y baile setentero</string>
+    <string name="musica25">Clásica – Arte sin tiempo</string>
+    <string name="musica26">Lo-Fi – Relajación para estudiar</string>
+    <string name="musica27">Techno – Electrónica intensa</string>
+    <string name="musica28">Mariachi – Tradición mexicana</string>
+    <string name="musica29">Ska – Ritmo alegre con metales</string>
+    <string name="musica30">Tango – Pasión argentina</string>
 </resources>
